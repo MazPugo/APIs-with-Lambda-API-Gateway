@@ -13,3 +13,14 @@ In this project, you’ll:
 - Connect Lambda with API Gateway — make your API live and callable.
 
 - Write JSON documentation — describe and share your API with othe
+
+
+#########################################################################
+
+Three-Tier Architecture — Project 2
+
+This is the second project in our three-part series on building applications with three-tier architecture.
+
+Three-tier architecture organizes applications into three essential layers: presentation, logic, and data.
+
+In this project, you’ll focus on the logic tier — the application’s backend. This is where your code lives, handling user actions (like button clicks) and transforming them into meaningful functionality (such as running a search, processing data, or generating results).
